@@ -1,3 +1,8 @@
+###############
+## Author : Pooja Sethiya
+## Institute : Chris Lab Faculty of Health Science / University of Macau. 
+## Email : yb57662@umac.mo
+###############
 ##Script to make multiple combinatioon of motifs with wildcards
 ##Define the wildcards in hash
 ##Run script with motif sequence defined keeping the rest same as defined below.
