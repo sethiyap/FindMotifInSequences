@@ -14,7 +14,7 @@
 
 
 
-getMoitfCombination=function(seq){
+getMotifCombination=function(seq){
 
           #seq = c("TTCnnnnnnnTTC")
           index <- grep ("n", s2c(seq))
